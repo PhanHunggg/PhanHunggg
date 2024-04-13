@@ -1,8 +1,8 @@
 
-<div align="center"> <img src="[https://asset.cloudinary.com/dxbr8wwht/321c708eb6d5f228155b27338427b62d](https://res.cloudinary.com/dxbr8wwht/image/upload/v1713031281/Profile%20Github/Img_js_a4xred.jpg)"> </div>
+<div align="center"> <img src="https://res.cloudinary.com/dxbr8wwht/image/upload/v1713031281/Profile%20Github/Img_js_a4xred.jpg"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phan+HùngTin!;" />
 </h1>
 
 <h3 align="center">I'm a FullstackJS Developer</h3>
